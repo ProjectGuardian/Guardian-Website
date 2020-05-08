@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@angular/fire": "^6.0.0",
     "bcrypt": "^3.0.0",
     "body-parser": "^1.17.2",
     "cors": "^2.8.4",
